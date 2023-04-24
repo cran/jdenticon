@@ -1,0 +1,17 @@
+218b0c6b8dcc0344569a70fd10165cc6 *DESCRIPTION
+8733c8bbea9d85ff55e95daf24af965c *LICENSE
+32840921fe6daebd8b9bb4f541922441 *NAMESPACE
+f3a6b3b570ff1b18a4a9c5f3d7806b1d *R/jdenticon.R
+4993aeabc4b229e41eab2ee72b797775 *R/jdenticon_npm_install.R
+5cd4d9f246623e09bd601ef0bac3281e *R/zzz.R
+14f0072d449b190863cadd28fc953d11 *README.md
+396fc7c5442967ea6e48010215c5ad2f *inst/node/build.js
+1654460d9431c29fa5104b0e0603bac2 *inst/node/built/index.js
+c3a3471b483c6767aac6da326cdaa7b8 *inst/node/index.js
+7ded97e9d29e1e3e7a4ed4faf5bdc566 *inst/node/package-lock.json
+423215e10529390119283be797192823 *inst/node/package.json
+49fe0fa7c3e7cc371cdabaa810ea8b0c *man/jdenticon.Rd
+ecadb2ae3af8a615c53b2f35af05288e *man/jdenticon_npm_install.Rd
+3440a9e2b103cf96e9737ae15f192567 *tests/testthat.R
+514e9bbffeba85ceb3007be1e2b11390 *tests/testthat/_snaps/jdenticon.md
+e716c22dd97ea1a0dd4b54c75fe241b7 *tests/testthat/test-jdenticon.R
